@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quiz Buzz</string>
+    <string name="profile_create">প্রোফাইল তৈরি</string>
+    <string name="profile_update">প্রোফাইল আপডেট</string>
+    <string name="add_image">ছবি আপলোড করুন</string>
+    <string name="facebook_app_id">377679523205330</string>
+    <string name="fb_login_protocol_scheme">fb377679523205330</string>
+
+</resources>
